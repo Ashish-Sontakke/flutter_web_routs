@@ -1,8 +1,7 @@
 # flutter_web_routs
 
 
-A new Flutter application.
-## Getting Started
+This is a flutter web application usong the Navigator2.0 to sync the urls with the applications state. 
 
 
 -[This project has 4 pages which can be accessed directly by typing the URL's]
