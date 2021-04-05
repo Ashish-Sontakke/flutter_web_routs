@@ -1,16 +1,16 @@
 # flutter_web_routs
 
-A new Flutter application.
 
+A new Flutter application.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+-[This project has 4 pages which can be accessed directly by typing the URL's]
+     / => opens the home page. (Using which you can navigate to all other pages.
+     /profile => opens the profile page.
+     /settings => opens the settings page.
+     /login => opens the login page.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Also from the home page if user navigates to the diffrent pages of the apps the URL' syncs with the pages.
