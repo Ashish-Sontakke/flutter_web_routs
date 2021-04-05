@@ -6,10 +6,14 @@ A new Flutter application.
 
 
 -[This project has 4 pages which can be accessed directly by typing the URL's]
-     / => opens the home page. (Using which you can navigate to all other pages.
-     /profile => opens the profile page.
-     /settings => opens the settings page.
-     /login => opens the login page.
+   
+   / => opens the home page. (Using which you can navigate to all other pages.
+   
+   /profile => opens the profile page.
+   
+   /settings => opens the settings page.
+   
+   /login => opens the login page.
 
 
 
